@@ -1,0 +1,95 @@
+.container{
+    height: 1185px;
+    width: 600px;
+    border: 2px solid black;
+    margin: 150px auto;
+    margin-top: 43px;
+    /* background-color: blueviolet; */
+    background-image: url(./img/img1.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    color: aliceblue;
+    font-size: 38px;
+    padding: 20px;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.form-inn{
+position: relative;
+left: 89px;
+}
+.flex{
+    background-color: rgba(153, 205, 50, 0);
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 240px;
+}
+h5{
+    position: relative;
+    left: 29px;
+    top: 105px;
+}
+
+.parent{
+    height: 151px;
+    width: 158px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 166px;
+    position: relative;
+    left: -9px;
+    background-image: url(./img/profile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.child
+{
+    height: 151px;
+    width: 158px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 166px;
+    position: relative;
+    left: 6px;
+    background-image: url(./img/man.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.Teacher{
+    height: 151px;
+    width: 158px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 166px;
+    position: relative;
+    left: 15px;
+    background-image: url(./img/girl.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.form-item{
+    font-size: 28px;
+    border: 2px solid black;
+    border-radius: 26px;
+    height: 53px;
+    width: 401px;
+    padding-left: 35px;
+
+}
+
+#btn{
+    font-size: 28px;
+    border: 2px solid black;
+    border-radius: 38px;
+    height: 70px;
+    width: 427px;
+    padding-left: 35px;
+    background-color: #FFE53B;
+    background-image: linear-gradient(240deg, #FFE53B 0%, #FF2525 74%);
+    
+
+} 
